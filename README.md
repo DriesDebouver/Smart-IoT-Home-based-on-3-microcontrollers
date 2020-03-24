@@ -1,7 +1,7 @@
 # Smart IoT Home based on 3 microcontrollers
 ## Evaluatie Week 7: "Freestyle" oefening
 
-### Gecombineerde kennis van elektronica, programmeren, sensore en I/O interfacing.**
+### Gecombineerde kennis van elektronica, programmeren, sensoren en I/O interfacing.**
 
 1. Maak gebruik van minstens 1 microcontroller (naar keuze)
    -  Ja, 3 microcontrollers
