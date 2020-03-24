@@ -167,7 +167,7 @@ void setup() {
   stepper.setSpeed(10); //RPM
 
   //Blynk:
-  Blynk.begin(auth, ssid, pass, "server.wyns.it", 8081);
+  Blynk.begin(auth, ssid, pass);
   timer.setInterval(1000L, myTimerEvent);
 }
 
