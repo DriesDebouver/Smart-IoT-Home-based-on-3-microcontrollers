@@ -30,7 +30,7 @@
 - Chicken gate control with motor (TowerPro SG90 Servo)
 - Airco with a fan (12V computer fan)
 
-**- Arduino Nano 33 IoT as weather station:**
+**- Arduino Nano 33 IoT as smart weather station:**
 - Inside temperature sensor (BMP180)
 - Inside humidity sensor (DHT11)
 - Outside temperature (WiFi)
