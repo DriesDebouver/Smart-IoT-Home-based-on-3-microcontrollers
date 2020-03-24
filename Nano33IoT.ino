@@ -68,8 +68,8 @@ int screen = 0;                   //Screen to change cases from LCD screen
 int greenLedPin = 10;             //Green LED Digital pin
 int yellowLedPin = 11;            //Yellow LED Digital pin
 int redLedPin = 12;               //Red LED Digital pin
-unsigned long sunriseTime;        //Sunrise tijd
-unsigned long sunsetTime;         //Sunset tijd
+unsigned long sunriseTime;        //Sunrise time
+unsigned long sunsetTime;         //Sunset time
 
 
 
@@ -141,7 +141,7 @@ void setup() {
   lcd.print("Connected!");
   delay(2000);
 
-  //Real Time myClock:
+  //Real Time Clock:
   rtc.begin();
   unsigned long epoch;
   int numberOfTries = 0, maxTries = 6;
@@ -169,7 +169,7 @@ void setup() {
 
 
 void loop() {
-  delay(500);   //Delay everyhting half a second
+  delay(500);   //Delay everything half a second
   Serial.println("\n***** ARDUINO WEATHER STATION *****");
 
   //Webserver:
@@ -259,7 +259,7 @@ void loop() {
   //Humidity:
   humiDht = dht.readHumidity();
 
-  //Different screen on the LCD:
+  //Different screens on the LCD:
   if (joystickX > 1000 || joystickX < 50 || joystickY < 50 || joystickY > 1000) { //If joystick moves left, right, up or down
     if (joystickX > 1000 || joystickY > 1000) { //Joystick to the right or down:
       screen++; //Next screen.
