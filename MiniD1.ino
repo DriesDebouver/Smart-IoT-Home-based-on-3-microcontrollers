@@ -47,7 +47,7 @@ void setup() {
   servo.attach(servoPin);
   servo.write(angle);
   //Blynk:
-  Blynk.begin(auth, ssid, pass, "server.wyns.it", 8081);
+  Blynk.begin(auth, ssid, pass);
 }
 
 void loop() {
