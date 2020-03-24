@@ -18,9 +18,9 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 //Blynk:
-char auth[] = "nYqsKGPM3tYvzfpVRkfGj_wbrzsRlI5r";
-char ssid[] = "WiFi-Debouver-2.4";
-char pass[] = "UzpSk6g9D3E3";
+char auth[] = "...";
+char ssid[] = "...";
+char pass[] = "...";
 BlynkTimer timer;
 
 //BMP280:
