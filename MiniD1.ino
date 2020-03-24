@@ -31,9 +31,9 @@ const int fanPin = D6;
 int fan;
 
 //Blynk:
-char auth[] = "gl64vI0XgjkCGETeHbG5Ir0ylgfs-I03";
-char ssid[] = "WiFi-Debouver-2.4";
-char pass[] = "UzpSk6g9D3E3";
+char auth[] = "...";
+char ssid[] = "...";
+char pass[] = "...";
 
 void setup() {
   Serial.begin(9600);
