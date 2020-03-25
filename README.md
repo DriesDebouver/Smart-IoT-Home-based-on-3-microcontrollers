@@ -8,14 +8,14 @@ It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 3
 
 ### Instructions:
 1. Use at least 1 microcontroller (of your choice)
-    - Yes, 3 microcontrollers
+   - Yes, 3 microcontrollers
 2. Read in at least 1 parameter with a sensor (temperature / light / ...) (digital or analog)
-    - Yes, 6 sensors
+   - Yes, 6 sensors
 3. Control at least one external device using an external switching stage
-    - Yes, 2 fans each with a 9V battery and transistor
+   - Yes, 2 fans each with a 9V battery and transistor
 4. The measured parameter(s) as well as the status of the output(s) must be visible on a local display as well as on the Blynk app on your phone. You should be able to switch the output(s) from your phone.
-    - Yes, visible on OLED screen and in the Blynk app
-    - Yes, stepper motor, relay, 3 LED's and RGB LED can be controlled via the Blynk app
+   - Yes, visible on OLED screen and in the Blynk app
+   - Yes, stepper motor, relay, 3 LED's and RGB LED can be controlled via the Blynk app
    
 ### Parts:
 
