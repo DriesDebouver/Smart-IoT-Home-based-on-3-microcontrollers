@@ -2,7 +2,6 @@
 ## Evaluatie Week 7: "Freestyle" oefening
 
 ### Gecombineerde kennis van elektronica, programmeren, sensoren en I/O interfacing.**
-
 1. Maak gebruik van minstens 1 microcontroller (naar keuze)
    -  Ja, 3 microcontrollers
 2. Lees minstens 1 parameter in met een sensor (temperatuur/licht/…) (digitaal of analoog)
@@ -12,6 +11,9 @@
 4. De gemeten parameter(s) alsook de status van de output(s) moeten zowel zichtbaar zijn op een lokaal display als op de afstandsbediening via de Blynk app op je telefoon. En je moet de output(s) kunnen schakelen vanaf je telefoon.
    -	Ja, zichtbaar op OLED scherm en in de Blynk app
    -	Ja, stepper motor, relay en 3 led’s kunnen geschakeld worden via de Blynk app
+   
+In this project I made a Smart Bedroom, Smart Chicken House and Smart Weather Station with almost all of the parts that I have.
+It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 33 IoT.
    
 ### Parts:
 
