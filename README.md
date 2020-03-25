@@ -1,5 +1,5 @@
 # Smart IoT Home based on 3 microcontrollers
-## Evaluatie Week 7: "Freestyle" oefening
+## Evaluation Week 7: "Freestyle" exercise
 
 ### Combined knowledge from electronics, programming, sensors and I/O interfacing.**
 
