@@ -1,7 +1,7 @@
 # Smart IoT Home based on 3 microcontrollers
 ## Evaluation Week 7: "Freestyle" exercise
 
-### Combined knowledge from electronics, programming, sensors and I/O interfacing.**
+### Combined knowledge from electronics, programming, sensors and I/O interfacing.
 
 In this project I made a Smart Bedroom, Smart Chicken House and Smart Weather Station with almost all of the parts that I have.
 It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 33 IoT.
