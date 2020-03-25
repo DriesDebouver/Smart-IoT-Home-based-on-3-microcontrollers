@@ -10,7 +10,6 @@ R = U/IBE = 3.3V-0.7V/0.0002875 = 9043 --> 10k Ohm
 
 
 
-
 Smart Bedroom:
 Microcontroller is 3.3V
 Transistor BC548C uses 0.7V
