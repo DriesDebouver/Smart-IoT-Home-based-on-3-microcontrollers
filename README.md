@@ -1,19 +1,21 @@
 # Smart IoT Home based on 3 microcontrollers
 ## Evaluatie Week 7: "Freestyle" oefening
 
-### Gecombineerde kennis van elektronica, programmeren, sensoren en I/O interfacing.**
-1. Maak gebruik van minstens 1 microcontroller (naar keuze)
-   -  Ja, 3 microcontrollers
-2. Lees minstens 1 parameter in met een sensor (temperatuur/licht/…) (digitaal of analoog)
-   -	Ja, 6 sensors
-3. Stuur minstens een externe device aan gebruik makende van een externe schakeltrap
-   -	Ja, 2 fans op elk een 9V batterij
-4. De gemeten parameter(s) alsook de status van de output(s) moeten zowel zichtbaar zijn op een lokaal display als op de afstandsbediening via de Blynk app op je telefoon. En je moet de output(s) kunnen schakelen vanaf je telefoon.
-   -	Ja, zichtbaar op OLED scherm en in de Blynk app
-   -	Ja, stepper motor, relay en 3 led’s kunnen geschakeld worden via de Blynk app
-   
+### Combined knowledge from electronics, programming, sensors and I/O interfacing.**
+
 In this project I made a Smart Bedroom, Smart Chicken House and Smart Weather Station with almost all of the parts that I have.
 It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 33 IoT.
+
+### Instructions:
+1. Use at least 1 microcontroller (of your choice)
+    - Yes, 3 microcontrollers
+2. Read in at least 1 parameter with a sensor (temperature / light / ...) (digital or analog)
+    - Yes, 6 sensors
+3. Control at least one external device using an external switching stage
+    - Yes, 2 fans each with a 9V battery and transistor
+4. The measured parameter(s) as well as the status of the output(s) must be visible on a local display as well as on the Blynk app on your phone. You should be able to switch the output(s) from your phone.
+    - Yes, visible on OLED screen and in the Blynk app
+    - Yes, stepper motor, relay, 3 LED's and RGB LED can be controlled via the Blynk app
    
 ### Parts:
 
@@ -42,6 +44,7 @@ It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 3
 - Sunrise (WiFi)
 - Sunset (WiFi)
 
+### Video link:
 [![Video](http://img.youtube.com/vi/toF9ledohuA/0.jpg)](http://www.youtube.com/watch?v=toF9ledohuA)
 
 ###### Exercise for the "Sensors & Interfacing" course in the Internet of Things education. 
