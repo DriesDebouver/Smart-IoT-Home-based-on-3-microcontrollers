@@ -35,6 +35,7 @@ It works on 3 seperate microcontrollers: ESP32, Wemos Mini D1 and Arduino Nano 3
 - Airco with a fan (12V computer fan)
 
 **- Arduino Nano 33 IoT as smart weather station:**
+
 I made this in another project: https://github.com/DriesDebouver/Smart-IoT-Weather-Station/blob/master/README.md
 - Inside temperature sensor (BMP180)
 - Inside humidity sensor (DHT11)
