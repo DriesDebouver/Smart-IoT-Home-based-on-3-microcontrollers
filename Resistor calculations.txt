@@ -1,0 +1,24 @@
+Smart Chicken House:
+Microcontroller is 3.3V
+Transistor BC548C uses 0.7V
+FAN Specs:
+- 12 Volt
+- 0.23 Ampere
+- 2.76 Watt
+
+IBE = IC/HFE = 0.23/800 = 0.0002875 IBE
+R = U/IBE = 3.3V-0.7V/0.0002875 = 9043 --> 10k Ohm
+
+
+
+
+Smart Bedroom:
+Microcontroller is 3.3V
+Transistor BC548C uses 0.7V
+FAN Specs:
+- 12 Volt
+- 0.11 Ampere
+- 1.32 Watt
+
+IBE = IC/HFE = 0.11/800 = 0.0001375 IBE
+R = U/IBE = 3.3V-0.7V/0.0001375 = 18909 --> 20k Ohm but I used 22k
