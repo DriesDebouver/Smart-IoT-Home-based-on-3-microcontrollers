@@ -40,5 +40,7 @@
 - Sunrise (WiFi)
 - Sunset (WiFi)
 
+[![Video](http://img.youtube.com/vi/toF9ledohuA/0.jpg)](http://www.youtube.com/watch?v=toF9ledohuA)
+
 ###### Exercise for the "Sensors & Interfacing" course in the Internet of Things education. 
 ###### © Dries Debouver
