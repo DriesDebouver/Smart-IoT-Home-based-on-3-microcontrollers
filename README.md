@@ -46,6 +46,11 @@ I made this in another project: https://github.com/DriesDebouver/Smart-IoT-Weath
 - Sunrise (WiFi)
 - Sunset (WiFi)
 
+### Blynk App Screenshots:
+[![](https://github.com/DriesDebouver/Smart-IoT-Home-based-on-3-microcontrollers/blob/master/App%20Screenshot%201.jpg)
+[![](https://github.com/DriesDebouver/Smart-IoT-Home-based-on-3-microcontrollers/blob/master/App%20Screenshot%202.jpg)
+[![](https://github.com/DriesDebouver/Smart-IoT-Home-based-on-3-microcontrollers/blob/master/App%20Screenshot%203.jpg)
+
 ### Video link:
 [![Video](http://img.youtube.com/vi/toF9ledohuA/0.jpg)](http://www.youtube.com/watch?v=toF9ledohuA)
 
