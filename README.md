@@ -52,7 +52,7 @@ I made this in another project: https://github.com/DriesDebouver/Smart-IoT-Weath
 [![](https://github.com/DriesDebouver/Smart-IoT-Home-based-on-3-microcontrollers/blob/master/App%20Screenshot%203.jpg)
 
 ### Video link:
-[![Video](http://img.youtube.com/vi/toF9ledohuA/0.jpg)](http://www.youtube.com/watch?v=toF9ledohuA)
+[![Video](http://img.youtube.com/vi/toF9ledohuA/0.jpg)](https://www.youtube.com/watch?v=ZQkrEwP0Ous)
 
 ###### Exercise for the "Sensors & Interfacing" course in the Internet of Things education. 
 ###### © Dries Debouver
